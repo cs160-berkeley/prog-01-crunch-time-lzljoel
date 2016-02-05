@@ -8,7 +8,7 @@ Zelong Li ([lizelong1993@berkeley.edu](mailto:lizelong1993@berkeley.edu))
 
 ## Demo Video
 
-See [your demo video title here] (https://link_to_your_video)
+See [prog1] (https://vimeo.com/154376441)
 
 ## Acknowledgments
 
